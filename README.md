@@ -52,3 +52,6 @@ For the text, I made two different texts. One was bigger with a red stroke and g
 
 Another text was able to move around a bit near the big text, as it is much smaller. It has a white stroke with red fill and says:
 >"Fill the Holidays with Sugar Gnome Delights!"
+
+As for the snow particles, I wanted to create the effect of snow falling. So, I had two snow particles, one right above the other, and had them move downward. _(adding +1 to the Y axis)_  
+When they reached a curtain point at the bottom, they would reset back at the top, creating a seamless loop of falling snow.
