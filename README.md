@@ -1,5 +1,5 @@
 # MAGD-150
-MAGD 150 Repository!
+MAGD 150 Repository! :D
 
 ### moserZLab6
 The goal was to create a p5js project with a Halloween theme.
