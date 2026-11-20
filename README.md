@@ -34,3 +34,4 @@ I also displayed the chosen values pushed into _myMoney_ as actual rectangle or 
 For this, I also used arrays to randomly place rectangles within a curtain area, mainly so they wouldn't overlap with the lists.
 
 ### moserZLab8
+In this assignment, we learned how to use and add images to our p5js projects and how to check our projects are working from the files using [Simple Web Server](https://simplewebserver.org/)
