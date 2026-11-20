@@ -43,3 +43,12 @@ Requirements:
 * Use the scale function to change the size of an image
 * Use mouseX and mouseY to change an images location or size
 * Use the text function in draw(), use textFont, change the stroke and fill, and limit the area the text can be drawn in using width and height measurments
+
+
+I decided to create a holiday card for this assignment! I used images I made which included a Gnome, a Snowy background, and snow particles.
+I used scale to change the images size, and had the Gnome follow your mouse.  
+For the text, I made two different texts. One was bigger with a red stroke and green fill saying:
+>"Happy Holidays!"
+
+Another text was able to move around a bit near the big text, as it is much smaller. It has a white stroke with red fill and says:
+>"Fill the Holidays with Sugar Gnome Delights!"
